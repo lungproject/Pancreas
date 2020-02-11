@@ -6,5 +6,3 @@
 3. Run test_allpatient.py with python to generate the prediction results of all the input slices.
 
 4. Run Obtainresults.m with Matlab to obtain the predicted DLS of each patient.
-
-5. Train2_shallowresnet.py is used to train a model
